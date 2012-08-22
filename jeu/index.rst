@@ -1,0 +1,7 @@
+======
+Le jeu
+======
+
+.. toctree::
+
+    regles

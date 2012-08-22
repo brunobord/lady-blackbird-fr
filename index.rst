@@ -35,4 +35,5 @@ voudra-t-elle encore de lui ?
     :maxdepth: 2
 
     monde
+    jeu/index
     credits
