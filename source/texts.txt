@@ -1,0 +1,839 @@
+Lady Blackbird
+
+is on the run from an arranged marriage to Count Carlowe.
+She hired a smuggler skyship, The Owl, to take her from her
+palace on the Imperial world of Ilysium to the far reaches of the
+Remnants, so she could be with her once secret lover, the pirate
+king Uriah Flint.
+
+however—Just before reaching the halfway point of Haven,
+The Owl was pursued and captured by the Imperial cruiser
+Hand of Sorrow, under charges of flying a false flag.
+
+even now Lady Blackbird, her bodyguard, and the crew of
+The Owl are detained in the brig, while the commander of the
+cruiser, Captain Hollas, runs the smuggler ship’s registry over
+the wireless. It’s only a matter of time before they discover the
+outstanding warrants and learn that The Owl is owned by
+none other than the infamous outcast Cyrus Vance.
+
+how will lady blackbird and the others escape
+the hand of sorrow?
+
+what dangers lie in their path?
+
+will they be able to find the secret lair of the
+pirate king? if they do, will uriah flint accept
+lady blackbird as his bride? by the time they get
+there, will she want him to?
+
+-------------------------------------------------------------------------------
+
+
+writing, layout & art
+
+John Harper
+
+influences
+
+Clinton R. Nixon, James V. West, Luke
+Crane, Vincent Baker, Jonathan Walton, Judd
+Karlman, Jason Morningstar, Fred Hicks, Rob
+Donoghue, Leonard Balsera, Ben Lehman,
+Mark Causey, Brandon Amancio, Claudio
+Cipolla, Mike Riverso, Joss Whedon, George
+Lucas, Hayao Miyazaki, Reiko Kodama
+
+playtesters
+
+Adam Chevrier, Shannon East, Naydanka
+Huamani, Sage LaTorra, Paul Riddle
+
+contact
+
+oneseven@gmail.com
+
+This document is licensed under a Creative Commons
+
+Attribution Non-Commercial Share Alike 3.0 license.
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+
+version 03.14.10
+
+-------------------------------------------------------------------------------
+
+
+Adrift in the Blue
+
+The worlds of the Wild Blue float in a sky of breathable gases
+circling a small, cold star. Scholars believe that the star is made from
+pure Essence—the strange energy that sorcerers channel for their magic.
+This “solar system” is much smaller than you might think—it takes about
+six weeks to cross from one side to the other on a standard sky ship. Most
+of the worlds of the Empire are so closely positioned that it takes only a
+day or two to travel from one to another.
+
+The Lower Depths
+
+The heavier gases form a dense layer of fog below the “sky” of the Wild
+Blue. This fog is corrosive —people need to wear gas-masks to breathe
+and most airship hulls will start to corrode after a single exposure.
+Pirates and other criminals sometimes use the lower depths to evade
+Imperial patrols and launch raids from hiding. Unfortunately, the depths
+are home to sky squid and other monstrous things....
+
+Names
+
+Male: Abel, Artemis, August, Eli, Giovanni, Ivan, Jack, Jefferson, Jonas,
+Leo, Logan, Malachi, Mario, Micah, Nahum, Noah, Orlence, Oscar,
+Samuel, Silas, Victor, Vlad, Wester
+
+Female: Alice, Ardent, Ashlyn, Caess, Clare, Elena, Eveline, Fiona,
+Grace, Hannah, Hazel, Hester, Isabel, Krista, Jezebel, Leah, Lucile,
+Lydia, Seraphina, Sonya, Sophie, Veronica, Violet
+
+Surnames: Bell, Bowen, Canter, Carson, Cross, Harwood, Hollas,
+Hunter, Kalra, Keel, Moreau, Morgan, Porter, Pickett, Quinn, Sidhu,
+Soto, Torrez, Vakharia, Walker, Winter, Wright
+Noble Houses: Ash, Blackbird, Firefly, Mooncloud, Nightsong, Snow,
+Twilight, Whitethorn.
+
+-------------------------------------------------------------------------------
+Ilysium
+
+The capitol world of the Empire, home to the great noble houses.
+Ilysium is rich and decadent, attended by servants, slaves, and the elite
+bodyguards of the nobility.
+
+Olympia
+
+The staging world of the Imperial Sky Fleet. From here, expeditions are
+launched into the colonial expanse and all across the Wild Blue. Olympia
+is also home to the finest brewers and distillers in the Empire.
+
+Haven
+
+The most prominent of the Free Worlds. Here, in the sprawling city hubs,
+the Trade Union tries to impose some order on the bickering clans and
+factions of the Free Peoples. Slavery is outlawed here, so many ex-slaves
+make Haven their home.
+
+Nightport
+
+Unlike other worlds, Nightport does not rotate, which means one face is
+always in darkness. It is on this side that pirates and smugglers have built
+a hidden port city in which to carry out their nefarious dealings. This
+hive of scum and villainy is a dangerous place, but almost anything may
+be bought or sold there, including secrets.
+
+The Remnants
+
+A swirling maelstrom of spinning world-shards. The Remnants are
+almost impossible to navigate, even for the best airship pilots. It’s said
+that the pirate king, Uriah Flint, keeps his secret fortress somewhere
+deep within the Remnants and only those who know the secret of
+the true course can ever reach it.
+
+-------------------------------------------------------------------------------
+
+
+Natasha Syri • Lady BLackBird
+
+An Imperial noble, in disguise, escaping an arranged marriage so she can be with her lover
+
+TRAITS
+
+Imperial Noble
+
+Etiquette, Dance, Educated, History, Science, Wealth, Connections,
+House Blackbird
+
+Master Sorcerer
+
+Spellcaster, Channeling, Stormblood, Wind, Lightning, [Fly],
+[Blast], [Sense]
+
+Athletic
+
+Run, Fencing, Rapier, Duels, Shooting, [Pistol], [Acrobatics]
+
+Charm
+
+Charisma, Presence, Command, Nobles, Servants, [Soldiers]
+
+Cunning
+
+Deception, Misdirection, Disguise, Codes, [Sneak], [Hide]
+
+Key of the Paragon
+
+As a noble, you’re a cut above the common man. Hit your key
+when you demonstrate your superiority or when your noble traits
+overcome a problem. Buyoff: Disown your noble heritage.
+
+Key of the Mission
+
+You must escape the Empire and rendezvous with your once secret
+lover, the Pirate King Uriah Flint, whom you haven’t seen in six
+years. Hit your key when you take action to complete the mission.
+Buyoff: Give up on your mission.
+
+Key of the Impostor
+
+You are in disguise, passing yourself off as commoner. Hit your key
+when you perform well enough to fool someone with your disguise.
+Buyoff: Reveal your true identity to someone you fooled.
+
+Secret of Stormblood
+
+As long as you can speak, you can channel magical power and do
+Sorcery. You have the Master Sorcerer trait and the Stormblood tag.
+
+Secret of Inner Focus
+
+Once per session, you can re-roll a failure when doing Sorcery.
+
+Tags in [brackets] are qualities you don’t have yet. You can buy them with
+advances. See the Rules Summary below, under Keys.
+
+-------------------------------------------------------------------------------
+
+rules summary
+
+When you try to overcome an obstacle, you roll dice. Start with one die.
+Add a die if you have a trait that can help you. If that trait has any tags
+that apply, add another die for each tag. Finally, add any number of dice
+from your personal pool of dice (your pool starts with 7 dice).
+
+Roll all the dice you’ve gathered. Each die that shows 4 or higher is a hit.
+You need hits equal to the difficulty level (usually 3) to pass the obstacle.
+
+levels: 2 easy—3 difficult—4 challenging—5 extreme
+
+If you pass, discard all the dice you rolled (including any pool dice you
+used). Don’t worry, you can get your pool dice back.
+
+If you don’t pass, you don’t yet achieve your goal. But, you get to keep
+the pool dice you rolled and add another die to your pool. The GM will
+escalate the situation in some way and you might be able to try again.
+
+When events warrant or especially when you fail a roll, the GM may
+impose a condition on your character: Injured, Dead, Tired, Angry,
+Lost, Hunted, or Trapped. When you take a condition, mark its box
+and say how it comes about. [Note: The “dead” condition just means
+“presumed dead” unless you say otherwise.]
+
+If your character is in a position to help another character, you can give them
+a die from your pool. Say what your character does to help. If the roll
+fails, you get your pool die back. If it succeeds, your die is lost.
+
+Keys
+
+When you hit a Key, you can do one of two things:
+
+❖ Take an experience point (XP)
+❖ Add a die to your pool (up to a max of 10)
+
+If you go into danger because of your key, you get 2 XP or 2 pool dice
+(or 1 XP and 1 pool die). When you have accumulated 5 XP, you earn an
+advance. You can spend an advance on one of the following:
+
+❖ Add a new Trait (based on something you learned during play or
+on some past experience that has come to light)
+❖ Add a tag to an existing trait
+❖ Add a new Key (you can never have the same key twice)
+❖ Learn a Secret (if you have the means to)
+
+You can hold on to advances if you want, and spend them at any time,
+even in the middle of a battle!
+
+Each key also has a buyoff. If the buyoff condition occurs, you have the
+option of removing the Key and earning two advances.
+
+Refresh
+
+You can refresh your pool back to 7 dice by having a refreshment scene
+with another character. You may also remove a condition or regain the
+use of a Secret, depending on the details of the scene. A refreshment
+scene is a good time to ask questions (in character) so the other player
+can show off aspects of his or her PC—“Why did you choose this
+life?”—“What do you think of the Lady?”—“Why did you take this
+job?” etc. Refreshment scenes can be flashbacks, too.
+
+-------------------------------------------------------------------------------
+
+
+Naomi Bishop •
+
+Former pit-fighter and bodyguard to Lady Blackbird
+
+Combat Tested, Brutal, Living Weapon, Fast, Hard, [Strong],
+[Bone-breaking], [Scary Look]
+
+Awareness, Threats, Defend, Disarm, Restrain, Carry, Delay,
+[Security], [First Aid]
+
+Sneak, Hide, Run, Tough, Endure, Scrounge, Nobles, [Hatred],
+[Iron Will]
+
+Insightful, Aware, Coiled, Liars, Traps, [Danger], [Sense
+Motives]
+
+Key of the Guardian
+
+You are Lady Blackbird’s loyal defender. Hit your key when you
+make a decision influenced by Lady Blackbird or protect her from
+harm. Buyoff: Sever your relationship with the Lady.
+
+Key of Vengeance
+
+The Empire enslaved you and made you kill for sport. You will have
+your revenge on them and watch their cities burn. Hit your key
+when you strike a blow against the Empire (especially by killing an
+Imperial). Buyoff: Forgive them for what they did to you.
+
+Key of the Warrior
+
+You crave the crash and roar of battle, the tougher the better. Hit
+your key when you do battle with worthy or superior foes.
+Buyoff: Pass up an opportunity for a good fight.
+
+Secret of Destruction
+
+You can break things with your bare hands as if you were swinging
+a sledgehammer. It’s scary.
+
+Secret of the Bodyguard
+
+Once per session, you can re-roll a failure when protecting someone.
+
+Tags in [brackets] are qualities you don’t have yet. You can buy them with
+advances. See the Rules Summary below, under Keys.
+
+-------------------------------------------------------------------------------
+
+Cyrus Vance •
+
+An ex-Imperial soldier turned smuggler and soldier-of-fortune, Captain of The Owl
+
+Tactics, Command, Soldiers, Rank, Connections, Maps, Imperial
+War Ships
+
+Haggle, Deception, Sneak, Hide, Camouflage, Forgery, Pilot,
+Navigation, [Repair], [Gunnery]
+
+Tough, Run, Scrounge, Endure, Creepy Stare, Intimidate, [Medic]
+
+Battle-Hardened, Shooting, Two-Gun Style, Pistol, Fencing, Sword,
+[Brawl], [Hail of Lead]
+
+Tags in [brackets] are qualities you don’t have yet. You can buy them with
+advances. See the Rules Summary below, under Keys.
+
+Key of the Commander
+
+You are accustomed to giving orders and having them obeyed. Hit
+your trait when you come up with a plan and give orders to make it
+happen. Buyoff: Acknowledge someone else as the leader.
+
+Key of Hidden Longing
+
+You are completely enthralled by Lady Blackbird, but you don’t
+want her to know it. Hit your key when you make a decision based
+on this secret affection or when you somehow show it indirectly.
+Buyoff: Give up on your secret desire or make it public.
+
+Key of the Outcast
+
+You got exiled from the Empire. Hit your key when your outcast
+status causes you trouble or is important in a scene.
+Buyoff: Regain your former standing or join a new group.
+
+Secret of Leadership
+
+Once per session, you can give someone else a chance to re-roll a failed
+roll, by giving them orders, advice, or setting a good example.
+
+Secret of Warpblood
+
+Once per session, you can teleport yourself or someone you’re
+touching.
+
+-------------------------------------------------------------------------------
+
+Kale Arkam •
+
+A burglar and petty sorcerer, first mate and mechanic of The Owl
+
+Quiet, Sneak, Hide, Dextrous, Locks, Perceptive, Traps, Darkness,
+[Alarms] , [Distractions]
+
+Quick, Dirty Fighting, Tumbler, Escape, Contortionist, [Sleight of
+Hand], [Acrobatics], [Dagger]
+
+Petty Magic (use one spell tag at a time)
+
+Light spell, Dark spell, Jump spell, Shatter Spell, [Channeling],
+[Spellcaster]
+
+Repair, Engines, Efficiency, Spare Parts, Sabotage, [Enhancements],
+[Ship Weapons]
+
+Key of Greed
+
+You like the shiny things. Hit your key when you steal something
+cool or score a big payoff. Buyoff: Swear off stealing forever.
+
+Key of the Mission
+
+You must safely deliver Lady Blackbird to the Pirate King Uriah
+Flint, so she can marry him. Hit your key when you take action to
+complete the mission. Buyoff: Give up the mission.
+
+Key of Fraternity
+
+You are sworn to Captain Vance in a bond of brotherhood. Hit your
+key when your character is influenced by Vance or when you show
+how deep your bond is. Buyoff: Sever the relationship
+
+Secret of Concealment
+
+No matter how thoroughly you’re searched, you always have a few
+key items with you. You can produce any common, simple item at
+a moment’s notice.
+
+Secret of Reflexes
+
+Once per session, you can re-roll a failure when doing anything
+involving grace, dexterity, or quick reflexes.
+
+Tags in [brackets] are qualities you don’t have yet. You can buy them with
+advances. See the Rules Summary below, under Keys.
+
+-------------------------------------------------------------------------
+
+Snargle •
+
+A goblin sky-sailor and pilot of The Owl
+
+Daring, Steady, Maneuvering, Evasion, Tricky flying, Navigation,
+Maps, Atmospherics. [The Owl], [Battle], [Ramming]
+
+Gunnery, Aim, Maintenance, Observation, Signals, Empire,
+Pirates, Free Worlds, Haven, [Repair], [Connections]
+
+Warp shape, Glide, Nightvision, Agile, Quick, Tumbler, Teeth &
+Claws, [Mimic Shape], [Reckless], [Connections]
+
+Crafty, Sneaky, Distractions, Bluff, Languages, Trade Speak,
+[Sharp], [Disguise]
+
+Tags in [brackets] are qualities you don’t have yet. You can buy them with
+advances. See the Rules Summary below, under Keys.
+
+Key of the Daredevil
+
+You thrive in dangerous situations. Hit your key when you do
+something cool that is risky or reckless (especially piloting stunts).
+Buyoff: Be very very careful.
+
+Key of Conscience
+
+You don’t like to see anyone suffer, even enemies. Hit your key when
+you help someone who is in trouble or when you change someone’s
+life for the better Buyoff: Ignore a request for help.
+
+Key of Banter
+
+You have a knack for snappy comments. Hit your key when Snargle
+says something that makes the other players laugh or when you
+explain something using your pilot techno jargon.
+Buyoff: Everyone groans at one of your comments.
+
+Secret of Shape Warping
+
+As a goblin, you can change your shape, growing shorter, taller,
+fatter, thinner, or changing your skin color, at will.
+
+Secret of the Lucky Break
+
+Once per session, you can keep your pool dice when you succeed (so
+go ahead and use ‘em all).
+
+
+------------------------------------------------------------------------------
+
+Sky Hauler C9 Refit
+
+The Owl was once a Sky Hauler C9 cargo ship but has since
+been extensively customized by Cyrus and Kale. It has a smaller
+cargo area and four passenger berths in the reclaimed space. It
+also has hidden smuggling compartments scattered throughout
+the vessel.
+
+The Owl is an old ship, but it can hold its own with more modern
+vessels thanks to its custom engines and supercharged steam
+drive. Snargle has also made several unique adjustments to the
+controls to allow the large ship to maneuver like a much smaller
+craft.
+
+Unfortunately, all of these modifications put a lot of strain on the
+old girl. Kale keeps the ship running day to day, but when it’s put
+under a lot of stress (as it often is) things can go awry—broken
+pipes, vented steam, leaking fluids, and worse.
+
+Still, The Owl is not just a skyship, it’s a home to its crew. They
+gather around the beat-up old wooden dinner table in the galley
+every night and thank the four winds that fortune saw fit to bless
+them with such a fine craft.
+
+[GM: You can inflict conditions on The Owl as events warrant. It begins
+play with the Need Fuel condition marked.]
+
+Statistics
+
+Length: 48 meters
+
+Crew: 2–3
+
+Berths: 6 (2 crew, 4 passenger)
+
+Cargo Capacity: 30,000 pounds (6 cargo pods)
+
+Powerplant:
+❖ Tri-Valve Reciprocal Steam Drive
+❖ (2) Twin-Coil Induction Thrusters
+
+Cruise Speed: 160 knots
+
+Flank Speed: 310 knots under boost
+
+Weapons: Top-mounted external gun turret
+
+Wireless: Midrange Multi-Band with Signal Mask
+
+Sensors:
+❖ Short-Range Sonar
+❖ Atmosphere/Pressure Analyzer
+
+Hull: Treated to resist corrosion in the lower depths for up to 4
+hours.
+
+[ ] need fuel [ ] need supplies [ ] busted & leaking [ ] slowed [ ] crippled
+
+------------------------------------------------------------------------------
+
+
+Running the Game •
+
+Tips, tricks, and advice for the GM
+
+Listen & Ask Questions, Don’t Plan
+
+When you’re the GM, don’t try to plan what will happen. Instead, ask
+questions—lots and lots and make them pointed toward the things
+you’re interested in. Like, Cyrus gives Naomi an order within earshot
+of Lady Blackbird, but the Lady’s player doesn’t register it right away.
+Naomi goes to follow the order. So I ask Lady Blackbird’s player, “How
+do you react when the Captain orders your bodyguard around? Is that
+okay with you?” And then, when it’s totally not okay, “What do you say to
+him? What do you say to Naomi?” and a few more like that and everyone
+is yelling at each other and rolling dice to impose their will.
+
+“Does anything break when you do this crazy maneuver?”
+
+“The fire probably spreads out of control doesn’t it?”
+
+“That sounds like a bold plan. What’s the first step?”
+
+“Do the two of you end up somewhere quiet together? Does something
+happen between you?”
+
+“Do you know anything about the Crimson Sky rebels? What are they
+like? Is it normal for them to be this far into the Empire?”
+
+Keep that going at a steady pace and the game flies along pretty well.
+Part of the job of the GM is listening to what the players say, catching it,
+turning it around and looking at it, and seeing if there’s anything else to
+be done with it.
+
+The GM’s jobs: listen and reincorporate, play the NPCs with gusto,
+create interesting obstacles, and impose conditions as events
+warrant (especially when rolls fail).
+
+Say Yes, Look For the Obstacles
+
+By default, characters can accomplish anything covered by their traits.
+They’re competent and effective people, in other words. It’s no fun to
+ask for a roll when there’s no cool obstacle in the way. Just say yes to the
+action, listen, and ask questions as usual. But also, be on the look out for
+the opportunity to create obstacles as the action develops. Because you’re
+asking leading questions and listening closely, they’ll be all over the place,
+so it won’t be too hard to spot them.
+
+Obstacles can be people (pirates, goblins, imperials, citizens, nobles),
+weather, monsters (sky squid, flying eels), situations (fires, falling, being
+shot at, chases, escapes) or anything else you can imagine.
+
+If a character tries something not covered by their traits, that’s an
+obstacle right there: lack of experience and training. Lots of fun things
+can go wrong when you don’t know what you’re doing! Also, players will
+sometimes try things they’re bad at so they can fail and add dice to their
+pool. It’s a fine move for them and it gives you the chance to create more
+trouble, so everyone wins.
+
+Conditions
+
+A condition constrains what the player should say about their character.
+It’s a cue to tell the GM and players to pay attention to that thing and
+use it as material for the developing fiction. Gaming is just us saying stuff
+to each other, right? So you’re like, “What do I say now?” and you look
+down and go, “Oh, I’m angry. I’ll go be angry at someone then. ‘Snargle!
+Why aren’t we at Nightport yet, you shiftless layabout?!’” For the GM,
+the conditions can create opportunities or give permissions. “You’re
+Injured, right? The Void Spiders can smell blood. They swarm right
+at you, ignoring the others.” Sometimes a condition will become
+an Obstacle in its own right, calling for a roll to deal with it.
+
+-----------------------------------------------------------------------------
+
+obstacles & difficulties •
+
+•
+
+Escape the Brig
+
+The cells in the Hand of Sorrow brig are walled
+in steel with heavy iron locks on the doors.
+
+Obstacles: Pick the lock: 3. Trick a marine
+guard: 3. (Bishop only—Smash the door
+open: Automatic. Smash the door open
+quietly: 5) Sneak through the ship: 4. Fight
+crew: 3. Fight marines: 4. Fight a lot of
+marines: 5 (or higher).
+
+Escalation: Alarm goes off. More marines
+appear. The Owl is jettisoned to stop your
+escape. Someone gets separated from the
+group (Lost and/or Trapped).
+
+Bounty Hunter Ambush
+
+Unless they keep a low profile, the actions of The
+Owl will eventually draw attention from bounty
+hunters looking to cash in on the warrants for
+Vance or the reward for Lady Blackbird.
+
+Obstacles: Fight back when ambushed: 5.
+Flee: 3. Try to bargain with them: 4. Pull a
+dirty trick to turn the tables: 3.
+
+Escalation: Someone is grabbed and held
+at gunpoint (Trapped).
+
+Skyship Battle
+
+You always want to be above your enemy in a
+skyship battle—unless your vessel is equipped to
+go into the Lower Depths....
+
+Obstacles: Maneuver for a clear shot: 3.
+Maneuver against a smaller, faster ship: 4.
+Maneuver to boarding action: 4. Fire on enemy
+ship: 3. Fire on a smaller, faster ship: 4. Avoid
+enemy fire: 3. Avoid a lot of enemy fire: 4-5.
+
+Escalation: The Owl is hit and loses control
+(Busted & Leaking, Slowed). More enemy
+ships appear. You’re driven into a storm by
+enemy action. The fight attracts a sky squid.
+
+Parlay with Scoundrels
+
+To find the secret path to the lair of the Pirate
+King in the remnants, you’ll have to deal with a
+whole host of unsavory characters.
+
+Obstacles: Find an underworld den: 3.
+Show you’re not someone to mess with: 3.
+Arrange a fair deal: 4. Arrange a deal that goes
+in your favor: 5. Spot their devious lies: 4.
+
+Escalation: The scoundrels decide to
+simply take what they want from you. You’re
+sold out. You were followed to the meet!
+
+Sky Squid Attack
+
+While passing through the lower depths, your
+engines attract a hungry sky squid. Its tentacles
+close around The Owl....
+
+Obstacles: Escape from tentacles: 5.
+Attack Squid: 3. Maneuver in squid ink: 4.
+Avoid harm from squid attacks (crushing,
+smashing, biting, thunderous song): 3.
+
+Escalation: Squid calls other squid
+with its song. Squid blood attracts other
+monster(s). Pulled further into the depths
+(Lost). Crash into rocks/debris/hidden
+world (Busted & Leaking or Crippled).
+
+Fight a Sorcerer
+
+Uriah Flint is a flameblood and a master
+sorcerer. Not that anyone would need to fight
+him, though. I mean, why would that happen?
+
+Obstacles: Dodge blasts of magical fire: 3.
+Attack Flint through his magical defenses: 5.
+Endure the heat and smoke as the fight
+wears on: 3.
+
+Escalation: The fires spread out of control.
+You drop your weapons when they get too
+hot to hold.
+
+-----------------------------------------------------------------------------
+
+
+new traits & tags •
+
+•
+
+Reputation
+
+Trustworthy, Reliable, Fearless, Reckless, Ruthless, Underhanded,
+Dangerous, Deadly, Cruel, Unpredictable, Heroic, Honorable,
+Compassionate
+
+Crew
+
+Gunnery, Aim, Maintenance, Damage Control, Observation,
+Signals, The Owl, Cargo, Supplies, First Aid, Boarding Action
+
+Sky Pirate
+
+Vicious, Hack & Slash, Cutlass, Knife, Shooting, Boomstick,
+Gunner, Boarding Action, Crew, Loot, Capture, Drink, Hardy,
+Treacherous, Intimidating, Contacts, Underworld
+
+Explorer
+
+Curious, Aware, Nimble, Hardy, Ancient Lore, Languages, Ruins,
+Monsters, Myths, Maps
+
+Investigator
+
+Search, Deduction, Perceptive, Seduce, Interrogate, Bribe, Coerce,
+Contacts, Sneak, Deception, Insight, Logic, Fisticuffs, Pistol
+
+Miner
+
+Tunnels, Labor, Strong, Pickaxe, Dim Light, Hold Breath, Ores,
+Resist Cold, Endure
+
+Note: when you buy a new trait, you don’t start with any tags. you need to buy them with advances.
+
+Ghostblood
+
+Fly, Possess, Insubstantial, Control Technology, Electrical,
+Dominate, Terrify, Sneak, Overload
+
+Stoneblood
+
+Harden, Make Heavy, Meld Into Stone, Petrify, Immovable,
+Mauler, Move Through Stone, Shape Rock, Tough
+
+Voidblood
+
+Invisibility, Vacuum, Make Weightless, Pass Through, Erase
+Mind, Counterspell, Disintegrate
+
+Dreamblood
+
+Sedate, Manipulate Dream, Enter Dream, Hallucination, Blind
+Fighting, Read Mind
+
+Bloodhunter
+
+Gather Information, Interrogate, Intimidate, Incognito, Recognize
+Blood, Reflexes, Authority, Firefights
+
+Bold
+
+Brave, Daring, Heroic, Rescue, Falling, Fire, Reckless, Explosions,
+Escapes, Outnumbered, Underdog
+
+--------------------------------------------------------------------------------
+
+
+
+new keys & secrets •
+
+•
+
+The Key of the Traveler
+
+You love exploring new places and meeting new people. Hit your
+key when you share an interesting detail about a person, place, or
+thing or when you go somewhere exciting and new.
+Buyoff: Pass up the opportunity to see something new.
+
+The Key of the Broker
+
+You like to make deals and trade favors. Hit your key when you
+bargain, make a new contact, or exchange a favor. Buyoff: Cut
+yourself off from your network of contacts.
+
+The Key of the Tinkerer
+
+You just can’t leave it alone. Hit your key when you modify, improve,
+repair, or patch some tech. Buyoff: Pass up the opportunity to
+mess around with technology.
+
+The Key of the Pirate
+
+You pillage, raid, and terrorize the Wild Blue. Hit your key when you
+impress someone with your piratical nature or do something to add to
+your reputation. Buyoff: Turn over a new leaf and go straight.
+
+The Key of the Vow
+
+You have a vow of personal behavior that you have sworn not to
+break. Hit your key when your vow significantly impacts your
+decisions. Buyoff: Break your vow.
+
+The Secret of the True Course
+
+You know how to navigate the Remnants. Requires: You need to
+learn the navigation codes from someone who has the secret.
+
+The Secret of the Explorer
+
+You’ve been all over the Blue, seen a lot of strange things. Once
+per session, you can re-roll a failure when you’re dealing with local
+customs or strange places. Requires: You’ve traveled from one
+side of the Blue to the other.
+
+The Secret of the Sky Song
+
+You know how to call sky squid and can attempt to communicate with
+them when they appear. Requires: You’ve trained with a master of
+the Sky Song or have been dream-linked to a sky squid.
+
+The Secret of the Shootist
+
+You’re deadly with a firearm (or two). Once per session, you can
+re-roll a failure when you’re shooting. Requires: You’ve been in a
+lot of gunfights or are learning from someone who has.
+
+The Secret of Experience
+
+Once per session, you can use tags from more than one trait when
+you make a roll. Requires: Experience in a wide variety of
+dangerous situations.
+
