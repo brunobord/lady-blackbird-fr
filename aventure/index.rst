@@ -1,9 +1,5 @@
-========================================
-Lady Blackbird, une traduction française
-========================================
-
-Lady Blackbird
-==============
+L'aventure
+==========
 
 … fuit un mariage forcé avec le Comte Carlowe... Elle a loué les services d'un
 Vaisseau Céleste de Contrebandiers, le Owl, afin qu'elle s'échappe du Palais
@@ -29,12 +25,8 @@ Sauront-ils trouver le repaire secret du Roi des Pirates ? Et s'ils y arrivent,
 Uriah Flint acceptera-t-il d'épouser Lady Blackbird ? Et à ce moment-là,
 voudra-t-elle encore de lui ?
 
--------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
-    monde
-    jeu/index
-    aventure/index
-    credits
+    personnages/index

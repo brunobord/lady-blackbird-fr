@@ -8,6 +8,7 @@ Traits
     achèterez les étiquettes avec des Avancées.
 
 .. glossary::
+    :sorted:
 
     Réputation
         Digne de confiance, Fiable, Sans-peur, Téméraire, Sans-pitié, Malhonnête,
