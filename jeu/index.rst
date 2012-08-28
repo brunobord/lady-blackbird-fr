@@ -6,3 +6,4 @@ Le jeu
 
     regles
     conseils
+    traits
