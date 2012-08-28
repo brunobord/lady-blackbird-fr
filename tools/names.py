@@ -21,14 +21,16 @@ NOBLE = ["Ash", "Blackbird", "Firefly", "Mooncloud", "Nightsong", "Snow",
 
 if __name__ == '__main__':
     male = raw_input('Male or Female? (m/F) ').lower() == 'm'
-    noble = raw_input('Noble? (y/N)').lower() == 'y'
-    if male:
-        first_name = random.choice(MALE)
-    else:
-        first_name = random.choice(FEMALE)
-    if noble:
-        surname = random.choice(NOBLE)
-    else:
-        surname = random.choice(SURNAME)
+    noble = raw_input('Noble? (y/N) ').lower() == 'y'
+    nb = int(raw_input('How many? [1] ') or 1)
+    for i in xrange(1, nb + 1):
+        if male:
+            first_name = random.choice(MALE)
+        else:
+            first_name = random.choice(FEMALE)
+        if noble:
+            surname = random.choice(NOBLE)
+        else:
+            surname = random.choice(SURNAME)
 
-    print("%s %s" % (first_name, surname))
+        print("%s %s" % (first_name, surname))
