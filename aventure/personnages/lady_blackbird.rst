@@ -42,7 +42,7 @@ En tant que Noble, vous vous situez au-dessus des gens "normaux". Déclenchez vo
 clé quand vous démontrez votre supériorité ou quand votre Noblesse aide à la
 résolution d'un problème.
 
-Rachat : Désavouer cet héritage.
+*Rachat* : Désavouer cet héritage.
 
 Clé de la Mission
 -----------------
@@ -51,7 +51,7 @@ Vous devez échapper à l'Empire et rejoindre votre amant secret, le Roi des Pir
 Uriah Flint, que vous n'avez pas vu depuis six ans. Déclenchez votre clé quand
 vous accomplissez une action qui vous rapproche du but.
 
-Rachat : Abandonner cette mission.
+*Rachat* : Abandonner cette mission.
 
 Clé de l'Imposteur
 ------------------
@@ -59,7 +59,7 @@ Clé de l'Imposteur
 Vous êtes déguisée, vous faisant passer pour une personne normale. Déclenchez votre
 clé quand vous arrivez à duper quelqu'un à l'aide de ce déguisement.
 
-Rachat : Révéler votre véritable identité à une personne que vous avez dupé.
+*Rachat* : Révéler votre véritable identité à une personne que vous avez dupé.
 
 Secrets
 =======
@@ -70,7 +70,7 @@ Secret du Sang-Orage
 Tant que vous pouvez parler, vous pouvez canaliser l'énergie magique et faire
 de la Sorcellerie.
 
-Requis : Vous possédez les Traits "Maître Sorcier" et "Sang-Orage".
+*Requis* : Vous possédez les Traits "Maître Sorcier" et "Sang-Orage".
 
 
 Secret de la Concentration Intérieure

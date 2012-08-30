@@ -38,10 +38,10 @@ Clés
 Clé du Gardien
 --------------
 
-Vous êtes la protectrice de Lady Blackbird. Déclenchez votre clé quand vous prenez
-une décision influencée par Lady Blackbird ou qui concerne sa protection.
+Vous êtes la protectrice de Lady Blackbird. Déclenchez votre clé quand vous
+prenez une décision influencée par Lady Blackbird ou qui concerne sa protection.
 
-Rachat : Endommager votre relation avec la Dame.
+*Rachat* : Endommager votre relation avec la Dame.
 
 Clé de la Vengeance
 -------------------
@@ -50,16 +50,16 @@ L'Empire vous a réduite en escalvage et vous a fait tuer par jeu. Vous voulez
 votre revanche et voir leur cité brûler. Déclenchez votre clé dès que vous
 causez des dommages à l'Empire - particulièrement quand vous tuez un Impérial).
 
-Rachat : Pardonner à l'Empire ce qu'ils vous ont fait.
+*Rachat* : Pardonner à l'Empire ce qu'ils vous ont fait.
 
 Clé de la Guerrière
 -------------------
 
-Vous aimez en découdre et le rugissement du combat ; et plus c'est difficile, mieux c'est. Déclenchez
-votre clé quand vous entrez en bataille contre un ou des adversaires plus puissants
-ou plus nombreux que vous.
+Vous aimez en découdre et le rugissement du combat ; et plus c'est difficile,
+mieux c'est. Déclenchez votre clé quand vous entrez en bataille contre un ou des
+adversaires plus puissants ou plus nombreux que vous.
 
-Rachat : Ignorer une occasion pour de la bonne bagarre.
+*Rachat* : Ignorer une occasion pour de la bonne bagarre.
 
 Secrets
 =======

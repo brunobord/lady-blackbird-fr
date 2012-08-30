@@ -25,6 +25,12 @@ Traits
         Réparer, Moteurs, Efficacité, Pièces détachées, Sabotage, [Améliorations],
         [Armes du Vaisseau]
 
+
+.. note::
+
+    Vous ne possédez pas encore les étiquettes [entre crochets]. Vous pourrez les
+    acheter avec des Avancées. {Note: lien vers Avancées}.
+
 Clés
 ====
 
@@ -34,7 +40,7 @@ Clé de l'Avarice
 Vous aimez ce qui brille. Déclenchez votre clé quand vous volez quelque chose
 d'intéressant récupérez un beau butin.
 
-Rachat : Jurer que vous renoncez à jamais au larcin.
+*Rachat* : Jurer que vous renoncez à jamais au larcin.
 
 
 Clé de la Mission
@@ -44,7 +50,7 @@ Vous devez accompagner Lady Blackbird vers le Roi des Pirats Uriah
 Flint, afin qu'elle l'épouse. Enclenchez votre clé quand vous faites une action
 qui permet de faire avancer cette mission.
 
-Rachat : Abandonner la mission.
+*Rachat* : Abandonner la mission.
 
 Clé de la Fraternité
 --------------------
@@ -53,7 +59,7 @@ Vous avez juré un pacte de fraternité avec le Capitaine Vance. Enclenchez votr
 clé quand votre personnage est influencé par Vance ou que vous montrez la
 sincérité de votre pacte.
 
-Rachat : Briser ce pacte.
+*Rachat* : Briser ce pacte.
 
 Secrets
 =======
