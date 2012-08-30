@@ -7,3 +7,4 @@ Personnages
 
     lady_blackbird
     naomi_bishop
+    cyrus_vance
