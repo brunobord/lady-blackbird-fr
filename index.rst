@@ -2,24 +2,21 @@
 Lady Blackbird, une traduction française
 ========================================
 
-Lady Blackbird
-==============
+:doc:`Lady Blackbird <aventure/personnages/lady_blackbird>` fuit un mariage forcé
+avec le Comte Carlowe... Elle a loué les services d'un Vaisseau Céleste de
+Contrebandiers, le Owl, afin qu'elle s'échappe du Palais situé sur les terres
+Impériales d'Ilysium et qu'elle atteigne au loin les Débris, où elle pourra
+retrouver son amour secret, le Roi des Pirates, Uriah Flint.
 
-… fuit un mariage forcé avec le Comte Carlowe... Elle a loué les services d'un
-Vaisseau Céleste de Contrebandiers, le Owl, afin qu'elle s'échappe du Palais
-situé sur les terres Impériales d'Ilysium et qu'elle atteigne au loin les
-Débris, où elle pourra retrouver son amour secret, le Roi des Pirates, Uriah
-Flint.
-
-Malheureusement, juste à mi-chemin, aux abords des Havres, le Owl a été
-poursuivi et capturé par le Croiseur Impérial Hand of Sorrow, qui l'accuse de
-voler sous un faux étendard.
+Malheureusement, juste à mi-chemin, aux abords :ref:`des Havres <les-havres>`,
+le Owl a été poursuivi et capturé par le Croiseur Impérial Hand of Sorrow, qui
+l'accuse de voler sous un faux étendard.
 
 À présent Lady Blackbird, son garde-du-corps et l'équipage du Owl sont détenus
 aux fers, tandis que le commandant du Croiseur, le Capitaine Hollas a envoyé
 l'immatriculation du Vaisseau par les ondes. Ce n'est une question de temps
 avant qu'ils retrouvent les mandats d'arrêt et découvrent que le Owl est la
-propriété de l'infâme hors-la-loi Cyrus Vance.
+propriété de l'infâme hors-la-loi :doc:`Cyrus Vance <aventure/personnages/cyrus_vance>`.
 
 Comment Lady Blackbird et les autres s'évaderont du Hand of Sorrow ?
 

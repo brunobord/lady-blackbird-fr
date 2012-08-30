@@ -40,6 +40,8 @@ lance les expéditions dans les Colonies et à travers tout l'Azur Sauvage. Olym
 est aussi l'endroit emblématique des meilleurs brasseurs et distillateurs de
 l'Empire.
 
+.. _les-havres:
+
 Les Havres
 ==========
 
