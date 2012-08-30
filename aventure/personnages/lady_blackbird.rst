@@ -53,7 +53,7 @@ vous accomplissez une action qui vous rapproche du but.
 
 Rachat : Abandonner cette mission.
 
-Clé de l'imposteur
+Clé de l'Imposteur
 ------------------
 
 Vous êtes déguisée, vous faisant passer pour une personne normale. Déclenchez votre
