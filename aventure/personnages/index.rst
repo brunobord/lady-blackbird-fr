@@ -9,3 +9,4 @@ Personnages
     naomi_bishop
     cyrus_vance
     kale_arkam
+    snargle
