@@ -26,6 +26,12 @@ Traits
     Cunning
         Supercherie, Distraction, Déguisement, Codes, [Furtivement], [Se cacher]
 
+
+.. note::
+
+    Vous ne possédez pas encore les étiquettes [entre crochets]. Vous pourrez les
+    acheter avec des Avancées. {Note: lien vers Avancées}.
+
 Clés
 ====
 
@@ -73,7 +79,3 @@ Secret de la Concentration Intérieure
 Une fois par session, vous pouvez relancer un jet échoué pendant que vous faites
 de la Sorcellerie.
 
-.. note::
-
-    Vous ne possédez pas encore les étiquettes [entre crochets]. Vous pourrez les
-    acheter avec des Avancées. {Note: lien vers Avancées}.

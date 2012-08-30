@@ -25,7 +25,7 @@ Traits
         Filouterie, Intimidation, Contacts, Monde sous-terrain
 
     Explorateur
-        Curieux, Conscient de l'environnement, Agile, Hardiesse, Savoir ancien, Langues, Ruines,
+        Curieux, Perspicace, Agile, Hardiesse, Savoir ancien, Langues, Ruines,
         Monstres, Mythes, Cartes
 
     Enquêteur
