@@ -31,3 +31,4 @@ voudra-t-elle encore de lui ?
 
     personnages/index
     owl
+    obstacles
