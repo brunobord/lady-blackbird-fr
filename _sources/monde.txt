@@ -9,7 +9,7 @@ Le monde de l'Azur Sauvage
 À la dérive dans l'Azur
 =======================
 
-Les mondes de l'Azur Sauvage flottent dans un ciel aux gas respirables, en
+Les mondes de l'Azur Sauvage flottent dans un ciel aux gaz respirables, en
 orbite autour d'une petite étoile froide. Les Savants pensent que cette étoile
 est faite d'Essence pure - une énergie aux propriétés étranges que les sorciers
 manipulent pour produire leur magie. Ce "système solaire" est plus petit qu'on
@@ -28,6 +28,8 @@ commenceront à se déteriorer après une seule exposition. Les Pirates et les
 criminels utilisent parfois les Abysses pour échapper aux patrouilles Impériales
 et lancent des raids après s'être approchés sous leur couverture. Hélas, les
 Abysses abritent les Poulpes Célestes et bien d'autres monstruosités...
+
+.. _ilysium:
 
 Ilysium
 =======

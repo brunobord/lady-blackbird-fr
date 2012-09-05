@@ -6,10 +6,10 @@ Passer un obstacle
 ==================
 
 Quand vous devez surmonter un obstacle, vous devez lancer les dés. On démarre
-avec un dé. Ajoutez un dé si un de vos Traits peut vous aider. Si ce Trait a
-des Étiquettes qui peuvent s'appliquer, ajoutez un dé pour chaque Étiquette.
-Enfin, on peut ajouter autant de dés qu'on veut à partir de votre Réserve
-personnelle (on démarre avec une Réserve de 7 dés).
+avec un dé. Ajoutez un dé si un de vos :doc:`Traits <traits>` peut vous aider.
+Si ce Trait a des Étiquettes qui peuvent s'appliquer, ajoutez un dé pour chaque
+Étiquette. Enfin, on peut ajouter autant de dés qu'on veut à partir de votre
+Réserve personnelle (on démarre avec une Réserve de 7 dés).
 
 Lancez tous les dés que vous aurez réuni. Chaque dé affichant 4 ou plus est un
 succès. Pour passer l'obstacle, il vous faudra un nombre de succès supérieur ou
