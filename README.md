@@ -43,3 +43,9 @@ Cette traduction utilise la même licence, mais en Français :
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0)
 
 [http://creativecommons.org/licenses/by-nc-sa/3.0/fr/](http://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
+
+Globalement, vous pouvez jouer à ce jeu en utilisant ces documents. Vous pouvez les adapter à vos besoins ou vos envies dès lors que :
+
+* Vous signalez l'origine de la version que vous avez récupéré (Celle de John Harper comme la présente),
+* Vous ne faites pas d'utilisation commerciale,
+* Les versions modifiées de ces documents seront publiés sous les mêmes conditions que ce Contrat Creative Commons.
