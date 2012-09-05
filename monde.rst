@@ -2,6 +2,10 @@
 Le monde de l'Azur Sauvage
 ==========================
 
+.. image:: /_static/monde.png
+    :width: 100%
+
+
 À la dérive dans l'Azur
 =======================
 
