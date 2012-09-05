@@ -5,7 +5,7 @@ Lady Blackbird, une traduction française
 :doc:`Lady Blackbird <aventure/personnages/lady_blackbird>` fuit un mariage forcé
 avec le Comte Carlowe... Elle a loué les services d'un Vaisseau Céleste de
 Contrebandiers, :doc:`le Owl <aventure/owl>`, afin qu'elle s'échappe du Palais situé sur les terres
-Impériales d'Ilysium et qu'elle atteigne au loin les Débris, où elle pourra
+Impériales :ref:`d'Ilysium <ilysium>` et qu'elle atteigne au loin les Débris, où elle pourra
 retrouver son amour secret, le Roi des Pirates, Uriah Flint.
 
 Malheureusement, juste à mi-chemin, aux abords :ref:`des Havres <les-havres>`,
