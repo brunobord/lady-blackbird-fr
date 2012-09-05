@@ -32,3 +32,14 @@ Pour le voir dans toute sa splendeur :
 
 Si on ne dispose pas de Fabric, on peut utiliser tout serveur Web statique imaginable (Apache, Nginx, adsf...)
 
+## Licence ##
+
+Le jeu original est sous contrat Creative Commons Attribution Non-Commercial Share Alike 3.0.
+
+[http://creativecommons.org/licenses/by-nc-sa/3.0/us/](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+
+Cette traduction utilise la même licence, mais en Français :
+
+Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0)
+
+[http://creativecommons.org/licenses/by-nc-sa/3.0/fr/](http://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
