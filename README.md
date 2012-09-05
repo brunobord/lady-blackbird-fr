@@ -1,12 +1,15 @@
-# Lady Blackbird, une traduction française
+# Lady Blackbird, une traduction française #
 
 Ceci est une traduction personnelle (et qui je l'espère deviendra collective) du jeu de rôle [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/), par John Harper.
 
 Pour contribuer, vous pouvez [forker ce dépôt sur Github](https://github.com/brunobord/lady-blackbird-fr), ajouter vos modifications sur une branche particulière, et m'adresser des Pull Requests.
 
-Bientôt... on pourra voir le résultat en HTML via les Github Pages. Sois patient.
+## Accéder aux documents HTML ##
 
-## Utilisation en local
+Une version "à peu près à jour" des documents existe et est visible à l'adresse : [http://brunobord.github.com/lady-blackbird-fr/](http://brunobord.github.com/lady-blackbird-fr/)
+
+## Utilisation en local ##
+
 
 Prérequis :
 
