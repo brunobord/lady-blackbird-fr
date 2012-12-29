@@ -49,3 +49,4 @@ Globalement, vous pouvez jouer à ce jeu en utilisant ces documents. Vous pouvez
 * Vous signalez l'origine de la version que vous avez récupéré (Celle de John Harper comme la présente),
 * Vous ne faites pas d'utilisation commerciale,
 * Les versions modifiées de ces documents seront publiés sous les mêmes conditions que ce Contrat Creative Commons.
+
