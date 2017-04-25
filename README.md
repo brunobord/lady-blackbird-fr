@@ -6,7 +6,7 @@ Pour contribuer, vous pouvez [forker ce dépôt sur Github](https://github.com/b
 
 ## Accéder aux documents HTML ##
 
-Une version "à peu près à jour" des documents existe et est visible à l'adresse : [http://brunobord.github.com/lady-blackbird-fr/](http://brunobord.github.com/lady-blackbird-fr/)
+Une version "à peu près à jour" des documents existe et est visible à l'adresse : [https://brunobord.github.io/lady-blackbird-fr/](https://brunobord.github.io/lady-blackbird-fr/)
 
 ## Utilisation en local ##
 
